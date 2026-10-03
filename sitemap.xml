@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://landlordcompanion.app/</loc></url><url><loc>https://landlordcompanion.app/privacy.html</loc></url><url><loc>https://landlordcompanion.app/terms.html</loc></url><url><loc>https://landlordcompanion.app/support.html</loc></url><url><loc>https://landlordcompanion.app/safeguarding.html</loc></url></urlset>
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://landlordcompanion.app/</loc>
+  </url>
+  <url>
+    <loc>https://landlordcompanion.app/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://landlordcompanion.app/terms.html</loc>
+  </url>
+  <url>
+    <loc>https://landlordcompanion.app/support.html</loc>
+  </url>
+  <url>
+    <loc>https://landlordcompanion.app/safeguarding.html</loc>
+  </url>
+  <url>
+    <loc>https://landlordcompanion.app/guides/</loc>
+  </url>
+  <url>
+    <loc>https://landlordcompanion.app/guides/organise-rental-property-documents.html</loc>
+  </url>
+  <url>
+    <loc>https://landlordcompanion.app/guides/landlord-inspection-checklist.html</loc>
+  </url>
+  <url>
+    <loc>https://landlordcompanion.app/guides/track-landlord-certificates.html</loc>
+  </url>
+</urlset>
